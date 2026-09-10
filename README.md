@@ -97,11 +97,9 @@ Simulation project demonstrating solar panel tracking based on sun position and 
 **Technology:** React • JavaScript • Mathematical Simulation
 
 🌐 **Live Demo:**
-
 https://solar-panel-smart-tracking-simulato.vercel.app/
 
 💻 **GitHub:**
-
 https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-simulator
 
 ---
@@ -113,11 +111,9 @@ AI-powered electrical fault detection and diagnosis system.
 **Technology:** React • FastAPI • Python • Machine Learning • Random Forest
 
 🌐 **Live Demo:**
-
 https://frontend-delta-wine-75.vercel.app/
 
 💻 **GitHub:**
-
 https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI
 
 ---
@@ -187,7 +183,6 @@ Object detection system using ultrasonic sensing.
 **B.Tech / B.E. — Electrical & Electronics Engineering**
 
 📅 2024 – 2027
-
 🏆 **CGPA: 9.6**
 
 ---
@@ -197,7 +192,6 @@ Object detection system using ultrasonic sensing.
 **Diploma — Electrical & Electronics Engineering**
 
 📅 2021 – 2024
-
 🏆 **86% — Gold Medalist**
 
 ---
@@ -207,7 +201,6 @@ Object detection system using ultrasonic sensing.
 **Mugathi / Yemmiganur**
 
 📅 2021
-
 📊 **80%**
 
 ---
