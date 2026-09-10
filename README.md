@@ -8,20 +8,20 @@
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&amp;label=PROFILE%20VIEWS&amp;color=00C2FF&amp;style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&amp;label=PROFILE%20VIEWS&amp;color=00C2FF&amp;style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/yagantieswarkurukunda6300-cell">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -60,29 +60,27 @@ I believe in:
 
 <div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,react,arduino,git,github,vscode&amp;perline=8" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,react,arduino,git,github,vscode&amp;perline=8" alt="Technical Skills" />
 
-<p>
-<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/AutoCAD%20Electrical-1565C0?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-FF4B2B?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" />
-</p>
+<br><br>
 
-<p>
-<img src="https://img.shields.io/badge/PLC-00A86B?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-7B1FA2?style=for-the-badge" />
-<img src="https://img.shields.io/badge/IoT-00C2FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF4B2B?style=for-the-badge" />
-</p>
+<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD" />
+<img src="https://img.shields.io/badge/AutoCAD%20Electrical-1565C0?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD Electrical" />
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB" />
+<img src="https://img.shields.io/badge/Simulink-FF4B2B?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="Simulink" />
 
-<p>
-<img src="https://img.shields.io/badge/Power%20Electronics-1565C0?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Electrical%20Machines-FF8C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" />
-</p>
+<br>
+
+<img src="https://img.shields.io/badge/PLC-00A86B?style=for-the-badge" alt="PLC" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-7B1FA2?style=for-the-badge" alt="Embedded Systems" />
+<img src="https://img.shields.io/badge/IoT-00C2FF?style=for-the-badge" alt="IoT" />
+<img src="https://img.shields.io/badge/Machine%20Learning-FF4B2B?style=for-the-badge" alt="Machine Learning" />
+
+<br>
+
+<img src="https://img.shields.io/badge/Power%20Electronics-1565C0?style=for-the-badge" alt="Power Electronics" />
+<img src="https://img.shields.io/badge/Electrical%20Machines-FF8C00?style=for-the-badge" alt="Electrical Machines" />
+<img src="https://img.shields.io/badge/Automation-00A86B?style=for-the-badge" alt="Automation" />
 
 </div>
 
@@ -170,7 +168,7 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI+%2B+Electrical+Engineering+%E2%9A%A1;Smart+Energy+Systems+%F0%9F%94%8B;IoT+%26+Automation+%F0%9F%8C%90;Machine+Learning+Projects+%F0%9F%A4%96;Renewable+Energy+Technology+%E2%98%80%EF%B8%8F" alt="Current Work Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI+%2B+Electrical+Engineering+%E2%9A%A1;Smart+Energy+Systems+%F0%9F%94%8B;IoT+%26+Automation+%F0%9F%8C%90;Machine+Learning+Projects+%F0%9F%A4%96;Renewable+Energy+Technology+%E2%98%80%EF%B8%8F" alt="Currently Working On" />
 
 </div>
 
@@ -255,6 +253,10 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0,50:00C2FF,100:FF4B2B&amp;height=120&amp;text=ELECTRICAL%20%2B%20AI%20%2B%20IoT&amp;fontSize=30&amp;fontColor=FFFFFF&amp;animation=twinkling" width="100%" alt="Electrical AI IoT" />
+
+<br><br>
+
 ```text
 ⚡ ELECTRICAL ENGINEERING
             ↓
@@ -299,11 +301,11 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/20K%2B-SNAPCHAT%20CONTENT%20CREATOR-FFFC00?style=for-the-badge&amp;logo=snapchat&amp;logoColor=000000" />
+<img src="https://img.shields.io/badge/20K%2B-SNAPCHAT%20CONTENT%20CREATOR-FFFC00?style=for-the-badge&amp;logo=snapchat&amp;logoColor=000000" alt="20K Snapchat Content Creator" />
 
 <br><br>
 
-**Engineering + Technology + Creativity**
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2400&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Engineering+%2B+Technology+%2B+Creativity;20K%2B+Snapchat+Content+Creator" alt="Snapchat Creator" />
 
 </div>
 
@@ -313,13 +315,18 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Active Developer" />
+<img src="https://img.shields.io/badge/Projects-10%2B-1565C0?style=for-the-badge" alt="Projects" />
+<img src="https://img.shields.io/badge/Focus-AI%20%2B%20IoT-FF4B2B?style=for-the-badge" alt="AI IoT" />
+<img src="https://img.shields.io/badge/Field-Electrical%20Engineering-00A86B?style=for-the-badge" alt="Electrical Engineering" />
 
-<img src="https://img.shields.io/badge/Projects-10%2B-1565C0?style=for-the-badge" />
+<br><br>
 
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20IoT-FF4B2B?style=for-the-badge" />
+<img src="https://github-readme-stats.vercel.app/api?username=yagantieswarkurukunda6300-cell&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" width="70%" alt="GitHub Stats" />
 
-<img src="https://img.shields.io/badge/Field-Electrical%20Engineering-00A86B?style=for-the-badge" />
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagantieswarkurukunda6300-cell&amp;theme=transparent&amp;hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -330,15 +337,15 @@ Object detection system using ultrasonic sensing.
 <div align="center">
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-1565C0?style=for-the-badge" />
+<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-1565C0?style=for-the-badge" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
-<a href="https://github.com/yagantieswarkurukunda6300">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
+<a href="https://github.com/yagantieswarkurukunda6300-cell">
+<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
 </a>
 
 </div>
@@ -365,19 +372,19 @@ Electrical Engineer | AI & IoT Enthusiast
 
 **20K+ Snapchat Content Creator**
 
-<br>
+<br><br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You" />
 
 </div>
 
