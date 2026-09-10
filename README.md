@@ -2,7 +2,7 @@
 
 # ⚡ KURUKUNDA YAGANTI ESWAR
 
-### Electrical Engineer | AI & IoT Enthusiast
+### Electrical Engineer | AI & IoT Enthusiast.
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Electrical+%26+Electronics+Engineering+Student+%E2%9A%A1;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Smart+Energy+%26+Automation+Builder+%F0%9F%94%A7;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+%E2%98%80%EF%B8%8F;20K%2B+Snapchat+Content+Creator+%F0%9F%94%A5" alt="Typing Animation" />
 
