@@ -1,27 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1565C0,50:00C2FF,100:FF4B2B&height=240&section=header&text=KURUKUNDA%20YAGANTI%20ESWAR&fontSize=42&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=Electrical%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&descAlignY=62&descSize=18" width="100%" alt="KURUKUNDA YAGANTI ESWAR Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0,50:00C2FF,100:FF4B2B&amp;height=240&amp;section=header&amp;text=KURUKUNDA%20YAGANTI%20ESWAR&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Electrical%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&amp;descAlignY=62&amp;descSize=18" width="100%" alt="KURUKUNDA YAGANTI ESWAR Header" />
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Electrical+%26+Electronics+Engineering+Student+%E2%9A%A1;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Smart+Energy+%26+Automation+Builder+%F0%9F%94%A7;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+%E2%98%80%EF%B8%8F;20K%2B+Snapchat+Content+Creator+%F0%9F%94%A5" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Electrical+%26+Electronics+Engineering+Student+%E2%9A%A1;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Smart+Energy+%26+Automation+Builder+%F0%9F%94%A7;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+%E2%98%80%EF%B8%8F;20K%2B+Snapchat+Content+Creator+%F0%9F%94%A5" alt="Typing Animation" />
 
 <br><br>
 
-<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&label=PROFILE%20VIEWS&color=00C2FF&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&amp;label=PROFILE%20VIEWS&amp;color=00C2FF&amp;style=for-the-badge" />
 
 <br><br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-1565C0?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="https://github.com/yagantieswarkurukunda6300-cell">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </div>
@@ -61,14 +61,14 @@ I believe in:
 <div align="center">
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,js,react,arduino,git,github,vscode&perline=8" />
+<img src="https://skillicons.dev/icons?i=python,java,js,react,arduino,git,github,vscode&amp;perline=8" />
 </p>
 
 <p>
-<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/AutoCAD%20Electrical-1565C0?style=for-the-badge&logo=autodesk&logoColor=white" />
-<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" />
-<img src="https://img.shields.io/badge/Simulink-FF4B2B?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/AutoCAD%20Electrical-1565C0?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-FF4B2B?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" />
 </p>
 
 <p>
@@ -81,7 +81,7 @@ I believe in:
 <p>
 <img src="https://img.shields.io/badge/Power%20Electronics-1565C0?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Electrical%20Machines-FF8C00?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&amp;logo=arduino&amp;logoColor=white" />
 </p>
 
 </div>
@@ -170,7 +170,7 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&duration=2500&pause=800&color=FF4B2B&center=true&vCenter=true&width=800&lines=AI+%2B+Electrical+Engineering+%E2%9A%A1;Smart+Energy+Systems+%F0%9F%94%8B;IoT+%26+Automation+%F0%9F%8C%90;Machine+Learning+Projects+%F0%9F%A4%96;Renewable+Energy+Technology+%E2%98%80%EF%B8%8F" alt="Current Work Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI+%2B+Electrical+Engineering+%E2%9A%A1;Smart+Energy+Systems+%F0%9F%94%8B;IoT+%26+Automation+%F0%9F%8C%90;Machine+Learning+Projects+%F0%9F%A4%96;Renewable+Energy+Technology+%E2%98%80%EF%B8%8F" alt="Current Work Animation" />
 
 </div>
 
@@ -299,7 +299,7 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/20K%2B-SNAPCHAT%20CONTENT%20CREATOR-FFFC00?style=for-the-badge&logo=snapchat&logoColor=000000" />
+<img src="https://img.shields.io/badge/20K%2B-SNAPCHAT%20CONTENT%20CREATOR-FFFC00?style=for-the-badge&amp;logo=snapchat&amp;logoColor=000000" />
 
 <br><br>
 
@@ -313,7 +313,7 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 
 <img src="https://img.shields.io/badge/Projects-10%2B-1565C0?style=for-the-badge" />
 
@@ -334,11 +334,11 @@ Object detection system using ultrasonic sensing.
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <a href="https://github.com/yagantieswarkurukunda6300">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" />
 </a>
 
 </div>
@@ -349,7 +349,7 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2500&pause=700&color=00C2FF&center=true&vCenter=true&width=800&lines=Learn+Every+Day+%F0%9F%93%9A;Build+Real+Projects+%F0%9F%9A%80;Solve+Engineering+Problems+%E2%9A%A1;Use+AI+for+Smart+Solutions+%F0%9F%A4%96;Keep+Improving+%F0%9F%94%A5" alt="Engineering Philosophy" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Learn+Every+Day+%F0%9F%93%9A;Build+Real+Projects+%F0%9F%9A%80;Solve+Engineering+Problems+%E2%9A%A1;Use+AI+for+Smart+Solutions+%F0%9F%A4%96;Keep+Improving+%F0%9F%94%A5" alt="Engineering Philosophy" />
 
 </div>
 
@@ -368,16 +368,16 @@ Electrical Engineer | AI & IoT Enthusiast
 <br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-1565C0?style=for-the-badge&logo=vercel&logoColor=white" />
+<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2500&pause=800&color=FF4B2B&center=true&vCenter=true&width=700&lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You Animation" />
 
 </div>
 
@@ -385,6 +385,6 @@ Electrical Engineer | AI & IoT Enthusiast
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF4B2B,50:FF8C00,100:1565C0&height=150&section=footer&animation=twinkling" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4B2B,50:FF8C00,100:1565C0&amp;height=150&amp;section=footer&amp;animation=twinkling" width="100%" alt="Animated Footer" />
 
 </div>
