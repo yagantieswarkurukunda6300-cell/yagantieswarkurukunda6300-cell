@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:1565C0,50:00C2FF,100:FF4B2B&amp;height=240&amp;section=header&amp;text=KURUKUNDA%20YAGANTI%20ESWAR&amp;fontSize=42&amp;fontColor=FFFFFF&amp;animation=twinkling&amp;fontAlignY=35&amp;desc=Electrical%20Engineer%20%7C%20AI%20%26%20IoT%20Enthusiast&amp;descAlignY=62&amp;descSize=18" width="100%" alt="KURUKUNDA YAGANTI ESWAR Header" />
+# ⚡ KURUKUNDA YAGANTI ESWAR
 
-<br>
+### Electrical Engineer | AI & IoT Enthusiast
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Electrical+%26+Electronics+Engineering+Student+%E2%9A%A1;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Smart+Energy+%26+Automation+Builder+%F0%9F%94%A7;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+%E2%98%80%EF%B8%8F;20K%2B+Snapchat+Content+Creator+%F0%9F%94%A5" alt="Typing Animation" />
 
@@ -33,8 +33,6 @@
 ### Electrical Engineer | AI & IoT Enthusiast
 
 I am an Electrical & Electronics Engineering student interested in combining **Electrical Engineering, Artificial Intelligence, IoT, Automation and Software Development** to build practical engineering solutions.
-
-I believe in:
 
 > **Learn → Build → Test → Improve → Repeat ⚡**
 
@@ -253,10 +251,6 @@ Object detection system using ultrasonic sensing.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:1565C0,50:00C2FF,100:FF4B2B&amp;height=120&amp;text=ELECTRICAL%20%2B%20AI%20%2B%20IoT&amp;fontSize=30&amp;fontColor=FFFFFF&amp;animation=twinkling" width="100%" alt="Electrical AI IoT" />
-
-<br><br>
-
 ```text
 ⚡ ELECTRICAL ENGINEERING
             ↓
@@ -305,7 +299,7 @@ Object detection system using ultrasonic sensing.
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2400&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Engineering+%2B+Technology+%2B+Creativity;20K%2B+Snapchat+Content+Creator" alt="Snapchat Creator" />
+**Engineering + Technology + Creativity**
 
 </div>
 
@@ -316,17 +310,12 @@ Object detection system using ultrasonic sensing.
 <div align="center">
 
 <img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Active Developer" />
+
 <img src="https://img.shields.io/badge/Projects-10%2B-1565C0?style=for-the-badge" alt="Projects" />
+
 <img src="https://img.shields.io/badge/Focus-AI%20%2B%20IoT-FF4B2B?style=for-the-badge" alt="AI IoT" />
+
 <img src="https://img.shields.io/badge/Field-Electrical%20Engineering-00A86B?style=for-the-badge" alt="Electrical Engineering" />
-
-<br><br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=yagantieswarkurukunda6300-cell&amp;show_icons=true&amp;theme=transparent&amp;hide_border=true&amp;rank_icon=github" width="70%" alt="GitHub Stats" />
-
-<br>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yagantieswarkurukunda6300-cell&amp;theme=transparent&amp;hide_border=true" width="70%" alt="GitHub Streak" />
 
 </div>
 
@@ -384,14 +373,6 @@ Electrical Engineer | AI & IoT Enthusiast
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You" />
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:FF4B2B,50:FF8C00,100:1565C0&amp;height=150&amp;section=footer&amp;animation=twinkling" width="100%" alt="Animated Footer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You Animation" />
 
 </div>
