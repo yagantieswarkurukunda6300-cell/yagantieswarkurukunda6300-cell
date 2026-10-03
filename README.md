@@ -84,79 +84,117 @@ I am an Electrical & Electronics Engineering student interested in combining **E
 
 ---
 
-# 🚀 FEATURED PROJECTS
+# 🚀  PROJECTS
 
-## ☀️ 01 — Solar Panel Smart Tracking Simulator
+## ⚡ VOLTGUARD AI
 
-Simulation project demonstrating solar panel tracking based on sun position and power calculations.
+**AI-Powered Electrical Monitoring System**
 
-**Technology:** React • JavaScript • Mathematical Simulation
+AI • Machine Learning • FastAPI • React
 
-🌐 **Live Demo:**
-https://solar-panel-smart-tracking-simulato.vercel.app/
+An intelligent electrical monitoring system designed to identify electrical faults and classify abnormal operating conditions.
 
-💻 **GitHub:**
-https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-simulator
-
----
-
-## 🤖 02 — VOLTGUARD AI
-
-AI-powered electrical fault detection and diagnosis system.
-
-**Technology:** React • FastAPI • Python • Machine Learning • Random Forest
-
-🌐 **Live Demo:**
+**Live Demo:**
 https://frontend-delta-wine-75.vercel.app/
 
-💻 **GitHub:**
+**GitHub:**
 https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI
 
 ---
 
-## 🔵 03 — Bluetooth Home Automation
+## 🏭 FACTORYNEXUS AI
 
-Bluetooth-based electrical home automation project.
+**AI Industrial Monitoring & Predictive Maintenance Platform**
+
+AI • Industrial Automation • SCADA • IoT • Predictive Maintenance
+
+An interactive industrial platform designed around factory monitoring, machine status, alerts, energy analysis and AI-based industrial intelligence.
+
+**Live Demo:**
+https://factorynexus-ai.vercel.app/
+
+**GitHub:**
+https://github.com/yagantieswarkurukunda6300-cell/factorynexus-ai
 
 ---
 
-## ⚡ 04 — Prepaid Energy Meter
+## ☀️ Solar Panel Smart Tracking Simulator
 
-Energy monitoring and prepaid electricity management concept.
+**Solar Tracking Simulation System**
+
+React • Vite • Solar Energy
+
+A simulation platform for understanding solar panel tracking and power variation based on sun position.
+
+**Live Demo:**
+https://solar-panel-smart-tracking-simulato.vercel.app/
+
+**GitHub:**
+https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-simulator
 
 ---
 
-## ☀️ 05 — Solar Mobile Charger
+## 🏠 Smart Home Simulator
+
+**IoT Smart Home Automation Simulator**
+
+IoT • Smart Home • Automation
+
+A browser-based smart home simulation demonstrating connected devices and automation concepts.
+
+**Live Demo:**
+https://smart-home-simulator-olive.vercel.app/
+
+**GitHub:**
+https://github.com/yagantieswarkurukunda6300-cell/smart-home-simulator
+
+---
+
+## ⚡ Prepaid Energy Meter
+
+**Smart Prepaid Energy Monitoring System**
+
+Smart Energy • Monitoring • Energy Management
+
+A smart energy meter concept focused on prepaid energy usage, balance monitoring, consumption tracking and live energy information.
+
+**Live Demo:**
+https://prepaid-energy-meter-rust.vercel.app/
+
+**GitHub:**
+https://github.com/yagantieswarkurukunda6300-cell/prepaid-energy-meter
+---
+## ☀️ 06 — Solar Mobile Charger
 
 Solar-powered mobile charging system using renewable energy.
 
 ---
 
-## 💡 06 — Automatic Street Light
+## 💡 07 — Automatic Street Light
 
 Automatic lighting system based on surrounding light conditions.
 
 ---
 
-## 🌱 07 — Smart Agricultural Irrigation
+## 🌱 08 — Smart Agricultural Irrigation
 
 Smart irrigation system concept for efficient water management.
 
 ---
 
-## 🔌 08 — Over / Under Voltage Protection
+## 🔌 09 — Over / Under Voltage Protection
 
 Electrical protection system for abnormal voltage conditions.
 
 ---
 
-## 💧 09 — Smart Water Level Controller
+## 💧 10 — Smart Water Level Controller
 
 Automatic water-level monitoring and control system.
 
 ---
 
-## 📡 10 — Ultrasonic Object Detector
+## 📡 11 — Ultrasonic Object Detector
 
 Object detection system using ultrasonic sensing.
 
