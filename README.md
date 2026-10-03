@@ -114,49 +114,85 @@ https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI
 
 ---
 
-## 🔵 03 — Bluetooth Home Automation
+---
 
-Bluetooth-based electrical home automation project.
+## ⚡03- Prepaid Energy Meter
+
+**Smart Prepaid Energy Monitoring System**
+
+Smart Energy • Monitoring
+
+A smart prepaid energy meter project for monitoring energy consumption, balance and live electrical usage.
+
+**Live Demo:**
+https://prepaid-energy-meter-rust.vercel.app/
+
+**GitHub:**
+https://github.com/yagantieswarkurukunda6300-cell/prepaid-energy-meter
 
 ---
 
-## ⚡ 04 — Prepaid Energy Meter
-
-Energy monitoring and prepaid electricity management concept.
-
 ---
 
-## ☀️ 05 — Solar Mobile Charger
+🏠04- Smart Home Simulator
+IoT Smart Home Automation Simulator
+
+IoT • Smart Home • Automation
+
+A browser-based smart home simulation demonstrating connected devices and automation concepts.
+
+Live Demo:
+https://smart-home-simulator-olive.vercel.app/
+
+GitHub:
+https://github.com/yagantieswarkurukunda6300-cell/smart-home-simulator
+
+---
+🏭05-FACTORYNEXUS AI
+AI Industrial Monitoring & Predictive Maintenance Platform
+
+AI • Industrial Automation • SCADA • IoT • Predictive Maintenance
+
+An interactive industrial platform designed around factory monitoring, machine status, alerts, energy analysis and AI-based industrial intelligence.
+
+Live Demo:
+https://factorynexus-ai.vercel.app/
+
+GitHub:
+https://github.com/yagantieswarkurukunda6300-cell/factorynexus-ai
+---
+
+## ☀️ 06 — Solar Mobile Charger
 
 Solar-powered mobile charging system using renewable energy.
 
 ---
 
-## 💡 06 — Automatic Street Light
+## 💡 07 — Automatic Street Light
 
 Automatic lighting system based on surrounding light conditions.
 
 ---
 
-## 🌱 07 — Smart Agricultural Irrigation
+## 🌱 08 — Smart Agricultural Irrigation
 
 Smart irrigation system concept for efficient water management.
 
 ---
 
-## 🔌 08 — Over / Under Voltage Protection
+## 🔌 09 — Over / Under Voltage Protection
 
 Electrical protection system for abnormal voltage conditions.
 
 ---
 
-## 💧 09 — Smart Water Level Controller
+## 💧 10 — Smart Water Level Controller
 
 Automatic water-level monitoring and control system.
 
 ---
 
-## 📡 10 — Ultrasonic Object Detector
+## 📡 11 — Ultrasonic Object Detector
 
 Object detection system using ultrasonic sensing.
 
