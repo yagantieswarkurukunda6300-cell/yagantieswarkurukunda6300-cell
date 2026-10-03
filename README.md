@@ -86,7 +86,7 @@ I am an Electrical & Electronics Engineering student interested in combining **E
 
 # 🚀  PROJECTS
 
-## ⚡ VOLTGUARD AI
+## ⚡01- VOLTGUARD AI
 
 **AI-Powered Electrical Monitoring System**
 
@@ -102,7 +102,7 @@ https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI
 
 ---
 
-## 🏭 FACTORYNEXUS AI
+## 🏭 02-FACTORYNEXUS AI
 
 **AI Industrial Monitoring & Predictive Maintenance Platform**
 
@@ -118,7 +118,7 @@ https://github.com/yagantieswarkurukunda6300-cell/factorynexus-ai
 
 ---
 
-## ☀️ Solar Panel Smart Tracking Simulator
+## ☀️03- Solar Panel Smart Tracking Simulator
 
 **Solar Tracking Simulation System**
 
@@ -134,7 +134,7 @@ https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-sim
 
 ---
 
-## 🏠 Smart Home Simulator
+## 🏠 04-Smart Home Simulator
 
 **IoT Smart Home Automation Simulator**
 
@@ -150,7 +150,7 @@ https://github.com/yagantieswarkurukunda6300-cell/smart-home-simulator
 
 ---
 
-## ⚡ Prepaid Energy Meter
+## ⚡05-Prepaid Energy Meter
 
 **Smart Prepaid Energy Monitoring System**
 
