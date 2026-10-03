@@ -1,27 +1,29 @@
 <div align="center">
 
+<img src="https://github.com/yagantieswarkurukunda6300-cell.png" width="150" height="150" alt="KURUKUNDA YAGANTI ESWAR" />
+
 # ⚡ KURUKUNDA YAGANTI ESWAR
 
-### Electrical Engineer | AI & IoT Enthusiast.
+### Electrical Engineer | AI & IoT Enthusiast
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=22&amp;duration=2800&amp;pause=900&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=850&amp;lines=Electrical+%26+Electronics+Engineering+Student+%E2%9A%A1;AI+%26+IoT+Enthusiast+%F0%9F%A4%96;Smart+Energy+%26+Automation+Builder+%F0%9F%94%A7;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+%E2%98%80%EF%B8%8F;20K%2B+Snapchat+Content+Creator+%F0%9F%94%A5" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2800&pause=900&color=00C2FF&center=true&vCenter=true&width=850&lines=Electrical+%26+Electronics+Engineering+Student+⚡;AI+%26+IoT+Enthusiast+🤖;Smart+Energy+%26+Automation+Builder+🔧;Machine+Learning+%7C+FastAPI+%7C+React;Renewable+Energy+%26+Electrical+Systems+☀️;20K%2B+Snapchat+Content+Creator+🔥" alt="Typing Animation" />
 
-<br><br>
+<br>
 
-<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&amp;label=PROFILE%20VIEWS&amp;color=00C2FF&amp;style=for-the-badge" alt="Profile Views" />
+<img src="https://komarev.com/ghpvc/?username=yagantieswarkurukunda6300-cell&label=PROFILE+VIEWS&color=00C2FF&style=for-the-badge" alt="Profile Views" />
 
 <br><br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
+<img src="https://img.shields.io/badge/🌐%20PORTFOLIO-1565C0?style=for-the-badge" alt="Portfolio" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge" alt="LinkedIn" />
 </a>
 
 <a href="https://github.com/yagantieswarkurukunda6300-cell">
-<img src="https://img.shields.io/badge/GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&logo=github" alt="GitHub" />
 </a>
 
 </div>
@@ -40,169 +42,196 @@ I am an Electrical & Electronics Engineering student interested in combining **E
 
 # 👨‍💻 ABOUT ME
 
+<div align="center">
+
+|      ⚡ Electrical      |          🤖 AI          |     🌐 IoT    |    🏭 Automation   |
+| :--------------------: | :---------------------: | :-----------: | :----------------: |
+| Electrical Engineering | Artificial Intelligence | Smart Systems | Industrial Systems |
+
+</div>
+
 * ⚡ Electrical & Electronics Engineering Student
 * 🤖 AI & Machine Learning Enthusiast
-* 🌐 IoT & Embedded Systems Enthusiast
-* 🔧 AutoCAD & AutoCAD Electrical
-* 📊 MATLAB / Simulink
-* 🏭 Quality Control & Manufacturing Experience
+* 🌐 IoT & Embedded Systems Builder
 * ☀️ Renewable Energy Enthusiast
-* 🔌 Electrical Automation
-* 💻 React + Python + FastAPI
-* 📚 GATE Aspirant
-* 👻 **20K+ Snapchat Content Creator**
+* 🏭 Industrial Automation Explorer
+* 💻 Software Development Learner
+* 🔧 AutoCAD & MATLAB
+* 🎬 20K+ Snapchat Content Creator
 
 ---
 
-# 🛠️ TECHNICAL SKILLS
+# 🧠 ENGINEERING MINDSET
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,js,react,arduino,git,github,vscode&amp;perline=8" alt="Technical Skills" />
+<img src="https://img.shields.io/badge/ELECTRICAL_ENGINEERING-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ARTIFICIAL_INTELLIGENCE-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/IOT-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/AUTOMATION-00A86B?style=for-the-badge" />
+<img src="https://img.shields.io/badge/RENEWABLE_ENERGY-FFD700?style=for-the-badge" />
 
-<br><br>
-
-<img src="https://img.shields.io/badge/AutoCAD-E34F26?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD" />
-<img src="https://img.shields.io/badge/AutoCAD%20Electrical-1565C0?style=for-the-badge&amp;logo=autodesk&amp;logoColor=white" alt="AutoCAD Electrical" />
-<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="MATLAB" />
-<img src="https://img.shields.io/badge/Simulink-FF4B2B?style=for-the-badge&amp;logo=mathworks&amp;logoColor=white" alt="Simulink" />
-
-<br>
-
-<img src="https://img.shields.io/badge/PLC-00A86B?style=for-the-badge" alt="PLC" />
-<img src="https://img.shields.io/badge/Embedded%20Systems-7B1FA2?style=for-the-badge" alt="Embedded Systems" />
-<img src="https://img.shields.io/badge/IoT-00C2FF?style=for-the-badge" alt="IoT" />
-<img src="https://img.shields.io/badge/Machine%20Learning-FF4B2B?style=for-the-badge" alt="Machine Learning" />
+</div>
 
 <br>
 
-<img src="https://img.shields.io/badge/Power%20Electronics-1565C0?style=for-the-badge" alt="Power Electronics" />
-<img src="https://img.shields.io/badge/Electrical%20Machines-FF8C00?style=for-the-badge" alt="Electrical Machines" />
-<img src="https://img.shields.io/badge/Automation-00A86B?style=for-the-badge" alt="Automation" />
+<div align="center">
+
+**⚡ Learn**
+
+↓
+
+**🔧 Build**
+
+↓
+
+**🧪 Test**
+
+↓
+
+**🚀 Deploy**
+
+↓
+
+**📈 Improve**
 
 </div>
 
 ---
 
+# 🛠️ TECHNICAL SKILLS
+
+### ⚡ Electrical Engineering
+
+<img src="https://img.shields.io/badge/Power_Electronics-FF6B00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Electrical_Machines-DC3545?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Protection_Systems-8B0000?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Power_Systems-1565C0?style=for-the-badge" />
+
+### 🤖 AI & Machine Learning
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Artificial_Intelligence-8A2BE2?style=for-the-badge" />
+
+### 💻 Programming & Web
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+
+### 🌐 IoT & Embedded
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" />
+<img src="https://img.shields.io/badge/IoT-00C2FF?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Sensors-FF1493?style=for-the-badge" />
+<img src="https://img.shields.io/badge/Microcontrollers-6A1B9A?style=for-the-badge" />
+
+### 🔧 Engineering Tools
+
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white" />
+<img src="https://img.shields.io/badge/MATLAB-FF8C00?style=for-the-badge&logo=mathworks&logoColor=white" />
+<img src="https://img.shields.io/badge/Simulink-FF6F00?style=for-the-badge" />
+
+---
+
 # 🚀 FEATURED PROJECTS
-
-## ☀️ 01 — Solar Panel Smart Tracking Simulator
-
-Simulation project demonstrating solar panel tracking based on sun position and power calculations.
-
-**Technology:** React • JavaScript • Mathematical Simulation
-
-🌐 **Live Demo:**
-https://solar-panel-smart-tracking-simulato.vercel.app/
-
-💻 **GitHub:**
-https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-simulator
-
----
-
-## 🤖 02 — VOLTGUARD AI
-
-AI-powered electrical fault detection and diagnosis system.
-
-**Technology:** React • FastAPI • Python • Machine Learning • Random Forest
-
-🌐 **Live Demo:**
-https://frontend-delta-wine-75.vercel.app/
-
-💻 **GitHub:**
-https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI
-
----
-
----
-
-## ⚡03- Prepaid Energy Meter
-
-**Smart Prepaid Energy Monitoring System**
-
-Smart Energy • Monitoring
-
-A smart prepaid energy meter project for monitoring energy consumption, balance and live electrical usage.
-
-**Live Demo:**
-https://prepaid-energy-meter-rust.vercel.app/
-
-**GitHub:**
-https://github.com/yagantieswarkurukunda6300-cell/prepaid-energy-meter
-
----
-
----
-
-🏠04- Smart Home Simulator
-IoT Smart Home Automation Simulator
-
-IoT • Smart Home • Automation
-
-A browser-based smart home simulation demonstrating connected devices and automation concepts.
-
-Live Demo:
-https://smart-home-simulator-olive.vercel.app/
-
-GitHub:
-https://github.com/yagantieswarkurukunda6300-cell/smart-home-simulator
-
----
-🏭05-FACTORYNEXUS AI
-AI Industrial Monitoring & Predictive Maintenance Platform
-
-AI • Industrial Automation • SCADA • IoT • Predictive Maintenance
-
-An interactive industrial platform designed around factory monitoring, machine status, alerts, energy analysis and AI-based industrial intelligence.
-
-Live Demo:
-https://factorynexus-ai.vercel.app/
-
-GitHub:
-https://github.com/yagantieswarkurukunda6300-cell/factorynexus-ai
----
-
-## ☀️ 06 — Solar Mobile Charger
-
-Solar-powered mobile charging system using renewable energy.
-
----
-
-## 💡 07 — Automatic Street Light
-
-Automatic lighting system based on surrounding light conditions.
-
----
-
-## 🌱 08 — Smart Agricultural Irrigation
-
-Smart irrigation system concept for efficient water management.
-
----
-
-## 🔌 09 — Over / Under Voltage Protection
-
-Electrical protection system for abnormal voltage conditions.
-
----
-
-## 💧 10 — Smart Water Level Controller
-
-Automatic water-level monitoring and control system.
-
----
-
-## 📡 11 — Ultrasonic Object Detector
-
-Object detection system using ultrasonic sensing.
-
----
-
-# 🎯 CURRENTLY WORKING ON
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=19&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=AI+%2B+Electrical+Engineering+%E2%9A%A1;Smart+Energy+Systems+%F0%9F%94%8B;IoT+%26+Automation+%F0%9F%8C%90;Machine+Learning+Projects+%F0%9F%A4%96;Renewable+Energy+Technology+%E2%98%80%EF%B8%8F" alt="Currently Working On" />
+## ⚡ VOLTGUARD AI
+
+### AI-Powered Electrical Monitoring System
+
+**AI • Machine Learning • FastAPI • React**
+
+<a href="https://frontend-delta-wine-75.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00A86B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/yagantieswarkurukunda6300-cell/VOLTGUARD-AI">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+## 🏭 FACTORYNEXUS AI
+
+### AI Industrial Monitoring & Predictive Maintenance Platform
+
+**AI • Industrial Automation • SCADA • IoT • Predictive Maintenance**
+
+<a href="https://factorynexus-ai.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00A86B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/yagantieswarkurukunda6300-cell/factorynexus-ai">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+## ☀️ SOLAR PANEL SMART TRACKING SIMULATOR
+
+**React • Vite • Solar Energy**
+
+<a href="https://solar-panel-smart-tracking-simulato.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00A86B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/yagantieswarkurukunda6300-cell/solar-panel-smart-tracking-simulator">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+## 🏠 SMART HOME SIMULATOR
+
+**IoT • Smart Home • Automation**
+
+<a href="https://smart-home-simulator-olive.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00A86B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/yagantieswarkurukunda6300-cell/smart-home-simulator">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github" />
+</a>
+
+---
+
+## ⚡ PREPAID ENERGY METER
+
+### Smart Prepaid Energy Monitoring System
+
+**Smart Energy • Monitoring • Energy Management**
+
+<a href="https://prepaid-energy-meter-rust.vercel.app/">
+<img src="https://img.shields.io/badge/🚀%20LIVE%20DEMO-00A86B?style=for-the-badge" />
+</a>
+
+<a href="https://github.com/yagantieswarkurukunda6300-cell/prepaid-energy-meter">
+<img src="https://img.shields.io/badge/💻%20SOURCE%20CODE-111111?style=for-the-badge&logo=github" />
+</a>
+
+</div>
+
+---
+
+# 📊 ENGINEERING PROFILE
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=yagantieswarkurukunda6300-cell&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagantieswarkurukunda6300-cell&layout=compact&theme=tokyonight&hide_border=true" />
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=yagantieswarkurukunda6300-cell&theme=tokyonight&hide_border=true" />
 
 </div>
 
@@ -210,205 +239,145 @@ Object detection system using ultrasonic sensing.
 
 # 🎓 EDUCATION
 
-### 🏫 VEMU Institute of Technology
+### 🎓 B.E. Electrical & Electronics Engineering
 
-**B.Tech / B.E. — Electrical & Electronics Engineering**
+**VEMU Institute of Technology, Chittoor**
 
-📅 2024 – 2027
-🏆 **CGPA: 9.6**
-
----
-
-### 🏫 Bheema Institute of Technology
-
-**Diploma — Electrical & Electronics Engineering**
-
-📅 2021 – 2024
-🏆 **86% — Gold Medalist**
+**9.6 CGPA | 2024 – 2027**
 
 ---
 
-### 🏫 AP Model School
+### 🏅 Diploma in Electrical & Electronics Engineering
 
-**Mugathi / Yemmiganur**
+**Bheema Institute of Technology**
 
-📅 2021
-📊 **80%**
+**86% | Gold Medalist | 2021 – 2024**
 
 ---
 
 # 🏆 ACHIEVEMENTS
 
-| 🏆 Achievement              | ⭐ Result                           |
-| --------------------------- | ---------------------------------- |
-| Diploma                     | 🥇 Gold Medalist                   |
-| ECET                        | 🎯 Branch Rank 234                 |
-| NPTEL Java                  | 🥈 Silver Medalist                 |
-| Regenerative Braking System | 🥇 1st Prize                       |
-| College Quiz                | 🥇 1st Prize – 2 Consecutive Years |
-| Cultural Activities         | 👑 Cultural Events President       |
-| GATE                        | 📚 Aspirant                        |
+| 🏆 Achievement           | Details                          |
+| ------------------------ | -------------------------------- |
+| 🥇 Diploma Gold Medalist | 86%                              |
+| 🏆 ECET Branch Rank      | 234                              |
+| 📜 NPTEL Silver Medalist | Java                             |
+| 🎤 Paper Presentation    | 1st Prize — Regenerative Braking |
+| 🧠 College Quiz          | 1st Prize — 2 Consecutive Years  |
+| 🎭 Cultural President    | Event & Team Coordination        |
 
 ---
 
-# 💼 EXPERIENCE & PROFESSIONAL INTERESTS
+# 💼 EXPERIENCE
 
-### 🔧 Quality Control
+### 🔵 Quality Control Intern — Versigent
 
-* Quality Inspection
-* Defect Identification
-* Quality Records
-* Production Processes
-* Quality Control
-* Manufacturing Systems
+**APR 2026 — JUL 2026**
 
-### ⚡ Electrical Engineering
+Quality inspections, defect documentation, root cause analysis, CAPA and quality records.
 
-* Electrical Machines
-* Power Electronics
-* PLC
-* Embedded Systems
-* IoT
-* Renewable Energy
-* Automation
+### 🟠 Quality Inspector — Stanley Manufacturing
 
-### 💻 Software & AI
+**FEB 2026 — MAR 2026**
 
-* Python
-* Java
-* React
-* FastAPI
-* Machine Learning
-* Git & GitHub
+Quality inspection and production support.
+
+### 🟣 Intern — AICTE / Skill India
+
+**JAN 2026 — FEB 2026**
+
+Electrical system design and industry-oriented engineering concepts.
+
+### 🔴 Quality Control Inspector — Trasccon
+
+**JUN 2023 — NOV 2023**
+
+Quality inspection and electrical support.
+
+### 🟢 Production Specialist — EMVEE
+
+**JUN 2022 — AUG 2022**
+
+Solar manufacturing and production processes.
 
 ---
 
-# 🧠 ENGINEERING + AI
+# 🎯 CURRENT FOCUS
 
 <div align="center">
+
+⚡ **Electrical Engineering**
+
+*
+
+🤖 **Artificial Intelligence**
+
+*
+
+🌐 **IoT**
+
+*
+
+🏭 **Industrial Automation**
+
+*
+
+☀️ **Renewable Energy**
+
+=
+
+🚀 **Smart Engineering Solutions**
+
+</div>
+
+---
+
+# 🔥 PROJECT PHILOSOPHY
+
+> **Real Problem → Engineering Concept → Technology → Prototype → Testing → Deployment**
+
+I focus on building projects that connect **core Electrical Engineering knowledge with modern AI, IoT and software technologies.**
+
+---
+
+# 📈 ROADMAP
 
 ```text
-⚡ ELECTRICAL ENGINEERING
-            ↓
-       📡 SENSORS / DATA
-            ↓
-      🌐 IoT / EMBEDDED
-            ↓
-        🤖 AI / ML
-            ↓
-       📊 DATA ANALYSIS
-            ↓
-    💡 SMART ENGINEERING
-            ↓
-      🚀 REAL-WORLD USE
+Electrical Engineering
+        ↓
+      IoT
+        ↓
+  Automation
+        ↓
+ Artificial Intelligence
+        ↓
+ Smart Energy Systems
+        ↓
+ Industrial Intelligence
+        ↓
+     Innovation 🚀
 ```
 
-</div>
-
 ---
-
-# 🔥 FUTURE PROJECT VISION
-
-* ⚡ Premium Calculator
-* 📊 Smart Energy Monitoring Dashboard
-* ☀️ AI Solar Power Prediction
-* 🔋 Battery Health Prediction
-* 🌐 IoT Transformer Monitoring
-* 🤖 AI Motor Fault Detection
-* 💡 Smart Street Light System
-* ⚡ Electricity Consumption Predictor
-* 🔋 EV Battery Monitoring Dashboard
-* 🌱 AI Smart Irrigation
-* 📈 Power Factor Monitoring System
-* 🏭 Predictive Maintenance Dashboard
-* ☀️ Solar Panel Fault Detection
-* 🏠 AI Smart Home Energy Manager
-* 🧠 AI-Based Electrical Fault Classifier
-
----
-
-# 👻 20K+ SNAPCHAT CONTENT CREATOR
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/20K%2B-SNAPCHAT%20CONTENT%20CREATOR-FFFC00?style=for-the-badge&amp;logo=snapchat&amp;logoColor=000000" alt="20K Snapchat Content Creator" />
+# ⚡ BUILD • LEARN • ENGINEER • INNOVATE ⚡
 
-<br><br>
+### Electrical Engineering | AI | IoT | Automation
 
-**Engineering + Technology + Creativity**
-
-</div>
-
----
-
-# 📊 GITHUB ACTIVITY
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/GitHub-Active%20Developer-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub Active Developer" />
-
-<img src="https://img.shields.io/badge/Projects-10%2B-1565C0?style=for-the-badge" alt="Projects" />
-
-<img src="https://img.shields.io/badge/Focus-AI%20%2B%20IoT-FF4B2B?style=for-the-badge" alt="AI IoT" />
-
-<img src="https://img.shields.io/badge/Field-Electrical%20Engineering-00A86B?style=for-the-badge" alt="Electrical Engineering" />
-
-</div>
-
----
-
-# 🌐 FIND ME ONLINE
-
-<div align="center">
+<br>
 
 <a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/🌐%20MY%20PORTFOLIO-1565C0?style=for-the-badge" alt="Portfolio" />
+<img src="https://img.shields.io/badge/🌐%20VISIT%20MY%20PORTFOLIO-1565C0?style=for-the-badge" />
 </a>
 
 <a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/💼%20LINKEDIN-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
-</a>
-
-<a href="https://github.com/yagantieswarkurukunda6300-cell">
-<img src="https://img.shields.io/badge/💻%20GITHUB-111111?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
-</a>
-
-</div>
-
----
-
-# ⚡ MY ENGINEERING PHILOSOPHY
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=20&amp;duration=2500&amp;pause=700&amp;color=00C2FF&amp;center=true&amp;vCenter=true&amp;width=800&amp;lines=Learn+Every+Day+%F0%9F%93%9A;Build+Real+Projects+%F0%9F%9A%80;Solve+Engineering+Problems+%E2%9A%A1;Use+AI+for+Smart+Solutions+%F0%9F%A4%96;Keep+Improving+%F0%9F%94%A5" alt="Engineering Philosophy" />
-
-</div>
-
----
-
-# 📫 CONNECT WITH ME
-
-<div align="center">
-
-**KURUKUNDA YAGANTI ESWAR**
-
-Electrical Engineer | AI & IoT Enthusiast
-
-**20K+ Snapchat Content Creator**
-
-<br><br>
-
-<a href="https://yaganti-eswar-portfolio.vercel.app/">
-<img src="https://img.shields.io/badge/PORTFOLIO-Visit%20Website-1565C0?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Portfolio" />
-</a>
-
-<a href="https://www.linkedin.com/in/yaganti-eswar-kurukunda-7027132b2">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect-0077B5?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white" alt="LinkedIn" />
+<img src="https://img.shields.io/badge/💼%20CONNECT%20ON%20LINKEDIN-0077B5?style=for-the-badge" />
 </a>
 
 <br><br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=18&amp;duration=2500&amp;pause=800&amp;color=FF4B2B&amp;center=true&amp;vCenter=true&amp;width=700&amp;lines=Thank+You+for+Visiting+%E2%9A%A1;Keep+Learning+%F0%9F%93%9A;Keep+Building+%F0%9F%9A%80;Keep+Engineering+%F0%9F%94%A7" alt="Thank You Animation" />
+**© 2026 KURUKUNDA YAGANTI ESWAR**
 
 </div>
