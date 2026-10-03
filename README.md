@@ -38,4 +38,4 @@
 
 **### Electrical Engineer | AI & IoT Enthusiast**
 
-I am an Electrical & Electronics Engineering student interested in combining **\*\*Electrical Engineering, Artificial Intelligence, IoT, Automation and Software Development\*\*** to build practical engineering solutions.                      IDDHI NA GITHUBB E MATTER DDESIDDN ANIMATIONS EM CHEYKUNDA  NA NEW PROJECT ADD CHEYLI ANDD LINKS ,  ANDD GITHUB PROFILE NA PIC CODE THO VACHELA CHEYLI
+I am an Electrical & Electronics Engineering student interested in combining **\*\*Electrical Engineering, Artificial Intelligence, IoT, Automation and Software Development\*\*** to build practical engineering solutions.
